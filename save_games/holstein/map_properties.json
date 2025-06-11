@@ -1,0 +1,9 @@
+{
+  "display_name": "Holstein",
+  "author": "Jan Erik Voigt",
+  "game_version": "0.2.0",
+  "width": 500,
+  "height": 700,
+  "initial_year": 2024,
+  "initial_capital": 1000000
+}
