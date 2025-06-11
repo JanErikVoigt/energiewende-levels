@@ -1,8 +1,0 @@
-name,production_windy_day,production_day,production_windy_night,production_night,construction_cost,fix_costs,var_costs,co2_emissions
-units,MW,MW,MW,MW,mio_euro,eur_per_h,eur_per_Mwh,kg_per_MW
-WindparkOnshore,100,10,100,10,160,365,7,0
-WindparkOffshore,100,10,100,10,280,445,8,0
-Solarpark,100,100,0,0,80,152,0,0
-Nuclear,1200,1200,1200,1200,13200,13699,15,0
-Coal,600,600,600,600,1200,2740,12,960
-Gas,600,600,600,600,360,1575,42,200
