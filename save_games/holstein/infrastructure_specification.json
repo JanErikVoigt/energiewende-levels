@@ -3,7 +3,7 @@
     "Solarpanels": {
       "resource_dependence": "Sunshine",
       "production_capacity": 100,
-      "construction_cost": 80,
+      "construction_cost": 800000,
       "fix_costs": 152,
       "var_costs": 0,
       "co2_emissions": 0,
@@ -13,7 +13,7 @@
     "WindturbinesOnshore": {
       "resource_dependence": "Wind",
       "production_capacity": 100,
-      "construction_cost": 160,
+      "construction_cost": 1600000,
       "fix_costs": 365,
       "var_costs": 7,
       "co2_emissions": 0,
@@ -23,7 +23,7 @@
     "WindturbinesOffshore": {
       "resource_dependence": "Wind",
       "production_capacity": 100,
-      "construction_cost": 280,
+      "construction_cost": 2800000,
       "fix_costs": 445,
       "var_costs": 8,
       "co2_emissions": 0,
@@ -33,7 +33,7 @@
     "Nuclearplant": {
       "resource_dependence": "Uranium",
       "production_capacity": 1200,
-      "construction_cost": 13200,
+      "construction_cost": 132000000,
       "fix_costs": 13699,
       "var_costs": 15,
       "co2_emissions": 0,
@@ -43,7 +43,7 @@
     "Coalplant": {
       "resource_dependence": "Coal",
       "production_capacity": 600,
-      "construction_cost": 1200,
+      "construction_cost": 12000000,
       "fix_costs": 2740,
       "var_costs": 12,
       "co2_emissions": 960,
@@ -53,7 +53,7 @@
     "Gasturbine": {
       "resource_dependence": "Gas",
       "production_capacity": 600,
-      "construction_cost": 360,
+      "construction_cost": 3600000,
       "fix_costs": 1575,
       "var_costs": 42,
       "co2_emissions": 200,
@@ -80,27 +80,27 @@
     }
   },
   "grid": {
-    "SmallOverland": {
-      "capacity": 1000,
+    "700": {
+      "capacity": 700,
       "efficiency": 0.9,
       "construction_cost": 1000,
       "fix_costs": 200,
       "var_costs": 5,
       "ground": "Land"
     },
-    "BigOverland": {
-      "capacity": 10000,
+    "3000": {
+      "capacity": 3000,
       "efficiency": 0.9,
       "construction_cost": 5000,
-      "fix_costs": 200,
+      "fix_costs": 2000,
       "var_costs": 5,
       "ground": "Land"
     },
-    "BigSubmarine": {
-      "capacity": 10000,
+    "2000": {
+      "capacity": 2000,
       "efficiency": 0.9,
       "construction_cost": 10000,
-      "fix_costs": 300,
+      "fix_costs": 3000,
       "var_costs": 5,
       "ground": "Ocean"
     }
