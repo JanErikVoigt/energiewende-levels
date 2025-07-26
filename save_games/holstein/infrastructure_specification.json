@@ -31,7 +31,7 @@
       "category": "Renewable"
     },
     "Nuclearplant": {
-      "resource_dependence": "Uranium",
+      "resource_dependence": "None",
       "production_capacity": 1200,
       "construction_cost": 132000000,
       "fix_costs": 13699,
@@ -41,7 +41,7 @@
       "category": "Nuclear"
     },
     "Coalplant": {
-      "resource_dependence": "Coal",
+      "resource_dependence": "None",
       "production_capacity": 600,
       "construction_cost": 12000000,
       "fix_costs": 2740,
@@ -51,7 +51,7 @@
       "category": "Fossil"
     },
     "Gasturbine": {
-      "resource_dependence": "Gas",
+      "resource_dependence": "None",
       "production_capacity": 600,
       "construction_cost": 3600000,
       "fix_costs": 1575,
