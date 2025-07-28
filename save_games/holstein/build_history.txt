@@ -313,3 +313,7 @@
 {"AddBuilding":["Solarpanels",378]}
 "NextYear"
 {"AddBuilding":["WindturbinesOffshore",432]}
+{"RemoveBuilding":134}
+{"RemoveBuilding":126}
+{"RemoveBuilding":119}
+{"RemoveBuilding":137}
