@@ -90,6 +90,9 @@
       "consumption_night": 2000
     },
     "Industry": {
+      "population_k": 0,
+      "power_consumption_during_day_per_person_per_year_kwh": 0,
+      "power_consumption_during_night_per_person_per_year_kwh": 0,
       "consumption_day": 1000,
       "consumption_night": 1000
     }

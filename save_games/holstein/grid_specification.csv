@@ -1,5 +1,0 @@
-grid,name,level,megawatts,cost_km,
-electric,750kV,3,2200,3000000,
-electric,380kV,2,600,2000000
-electric,220kV,1,175,1500000,
-electric,220kV_submarine,1,175,8000000,
