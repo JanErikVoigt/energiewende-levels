@@ -10,3 +10,18 @@ Tags vs Nachts: night 20–30 % and day ~70–80
 1125kWh tags
 "power_consumption_during_day_per_person_per_year_kwh": 1125,
 "power_consumption_during_night_per_person_per_year_kwh": 375,
+
+
+
+
+ca 9TWh / Jahr
+9000000MWh
+1027.397260274 MW
+
+8x Industry => 128.424657534 MW / Industrie
+sagen wir mal 78-20 tag vs nacht
+tags: 102.739726027MW
+nachts: 25.684931507MW
+
+tags: 102.739kW
+nachts: 25.684kW

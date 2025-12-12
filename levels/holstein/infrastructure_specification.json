@@ -85,8 +85,8 @@
     },
     "Industry": {
       "population_k": 0,
-      "power_consumption_day_kw": 1000,
-      "power_consumption_night_kw": 1000
+      "power_consumption_day_kw": 102739,
+      "power_consumption_night_kw": 25684
     }
   },
   "grid": {
