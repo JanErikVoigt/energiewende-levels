@@ -2,7 +2,7 @@
   "powerplants": {
     "Solarpanels": {
       "resource_dependence": "Sunshine",
-      "production_capacity": 100,
+      "production_capacity_kw": 100000,
       "construction_cost": 800000,
       "destruction_cost": 80000,
       "fix_costs": 152,
@@ -13,7 +13,7 @@
     },
     "WindturbinesOnshore": {
       "resource_dependence": "Wind",
-      "production_capacity": 100,
+      "production_capacity_kw": 100000,
       "construction_cost": 1600000,
       "destruction_cost": 160000,
       "fix_costs": 365,
@@ -24,7 +24,7 @@
     },
     "WindturbinesOffshore": {
       "resource_dependence": "Wind",
-      "production_capacity": 100,
+      "production_capacity_kw": 100000,
       "construction_cost": 2800000,
       "destruction_cost": 280000,
       "fix_costs": 445,
@@ -35,7 +35,7 @@
     },
     "Nuclearplant": {
       "resource_dependence": "None",
-      "production_capacity": 1200,
+      "production_capacity_kw": 1200000,
       "construction_cost": 132000000,
       "destruction_cost": 13200000,
       "fix_costs": 13699,
@@ -46,7 +46,7 @@
     },
     "Coalplant": {
       "resource_dependence": "None",
-      "production_capacity": 600,
+      "production_capacity_kw": 600000,
       "construction_cost": 12000000,
       "destruction_cost": 1200000,
       "fix_costs": 2740,
@@ -57,7 +57,7 @@
     },
     "Gasturbine": {
       "resource_dependence": "None",
-      "production_capacity": 600,
+      "production_capacity_kw": 600000,
       "construction_cost": 3600000,
       "destruction_cost": 360000,
       "fix_costs": 1575,
