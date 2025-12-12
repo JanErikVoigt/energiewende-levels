@@ -1,0 +1,9 @@
+SH Population: 3mio
+Stadtgrößen: 20k, 50k, 250k
+Strom/Person/Jahr: ~1500kWh
+15.2 TWh für SH
+4_500_000_000kWh = 4.5TWh
+10Twh für Industrie? -> joa ca doppelt so viel
+Tags vs Nachts: night 20–30 % and day ~70–80
+375kWh nachts
+1125kWh tags

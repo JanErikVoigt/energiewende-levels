@@ -69,14 +69,23 @@
   },
   "consumers": {
     "Town": {
+      "population_k": 20,
+      "power_consumption_during_day_per_person_per_year_kwh": 1125,
+      "power_consumption_during_night_per_person_per_year_kwh": 375,
       "consumption_day": 40,
       "consumption_night": 20
     },
     "City": {
+      "population_k": 50,
+      "power_consumption_during_day_per_person_per_year_kwh": 1125,
+      "power_consumption_during_night_per_person_per_year_kwh": 375,
       "consumption_day": 400,
       "consumption_night": 200
     },
     "Metropolis": {
+      "population_k": 250,
+      "power_consumption_during_day_per_person_per_year_kwh": 1125,
+      "power_consumption_during_night_per_person_per_year_kwh": 375,
       "consumption_day": 4000,
       "consumption_night": 2000
     },
