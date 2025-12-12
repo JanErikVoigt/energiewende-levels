@@ -5,5 +5,8 @@ Strom/Person/Jahr: ~1500kWh
 4_500_000_000kWh = 4.5TWh
 10Twh für Industrie? -> joa ca doppelt so viel
 Tags vs Nachts: night 20–30 % and day ~70–80
+
 375kWh nachts
 1125kWh tags
+"power_consumption_during_day_per_person_per_year_kwh": 1125,
+"power_consumption_during_night_per_person_per_year_kwh": 375,
