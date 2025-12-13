@@ -92,13 +92,13 @@
   "grid": {
     "Small": {
       "Land": {
-        "capacity": 700,
+        "capacity_mw": 10,
         "construction_cost": 1000,
         "fix_costs": 200,
         "var_costs": 5
       },
       "Ocean": {
-        "capacity": 700,
+        "capacity_mw": 10,
         "construction_cost": 1000,
         "fix_costs": 200,
         "var_costs": 5
@@ -106,13 +106,13 @@
     },
     "Medium": {
       "Land": {
-        "capacity": 3000,
+        "capacity_mw": 100,
         "construction_cost": 5000,
         "fix_costs": 2000,
         "var_costs": 5
       },
       "Ocean": {
-        "capacity": 2000,
+        "capacity_mw": 100,
         "construction_cost": 10000,
         "fix_costs": 3000,
         "var_costs": 5
@@ -120,13 +120,13 @@
     },
     "Large": {
       "Land": {
-        "capacity": 10000,
+        "capacity_mw": 1000,
         "construction_cost": 20000,
         "fix_costs": 8000,
         "var_costs": 5
       },
       "Ocean": {
-        "capacity": 7000,
+        "capacity_mw": 1000,
         "construction_cost": 35000,
         "fix_costs": 14000,
         "var_costs": 5
