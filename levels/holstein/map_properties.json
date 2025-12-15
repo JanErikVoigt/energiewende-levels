@@ -6,10 +6,14 @@
   "height": 700,
   "initial_year": 2024,
   "initial_capital": 100000000,
-  "co2_budget_tons": 3800000000,
   "electricity_price_mw": 280,
   "win_condition": {
-    "co2_budget_tons": 3800000000,
+    "co2_budget_tons": 400000000,
+    "co2_emission_ceilings": [
+      [2030, 14400000],
+      [2040, 6500000],
+      [2050, 2000000]
+    ],
     "year_co2_neutral": 2050,
     "max_debt_endyear": 0
   }
