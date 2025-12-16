@@ -345,7 +345,6 @@
 {"RemoveEdge":["Powergrid",63,87]}
 {"RemoveEdge":["Powergrid",159,175]}
 {"RemoveEdge":["Powergrid",63,91]}
-"NextYear"
 {"RemoveEdge":["Powergrid",382,384]}
 {"AddEdge":["Powergrid",382,384,"Medium"]}
 {"RemoveEdge":["Powergrid",384,385]}
@@ -375,7 +374,6 @@
 {"AddEdge":["Powergrid",250,246,"Large"]}
 {"RemoveEdge":["Powergrid",323,316]}
 {"AddEdge":["Powergrid",323,316,"Large"]}
-"NextYear"
 {"RemoveEdge":["Powergrid",215,354]}
 {"AddEdge":["Powergrid",215,354,"Medium"]}
 {"RemoveEdge":["Powergrid",354,103]}
