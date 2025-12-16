@@ -6,7 +6,7 @@
   "height": 700,
   "initial_year": 2024,
   "initial_capital_mio": 1000,
-  "electricity_price_mw": 280,
+  "electricity_price_mwh": 380,
   "win_condition": {
     "co2_budget_tons": 400000000123,
     "co2_emission_ceilings_kgs": [
