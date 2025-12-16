@@ -2,11 +2,11 @@
   "powerplants": {
     "Solarpanels": {
       "resource_dependence": "Sunshine",
-      "production_capacity_kw": 100000,
-      "construction_cost": 800000,
-      "destruction_cost": 80000,
-      "fix_costs": 152,
-      "var_costs": 0,
+      "production_capacity_kw": 100.0,
+      "construction_cost_mio": 90.0,
+      "destruction_cost_mio": 6,
+      "fix_costs_mio": 1.8,
+      "var_costs_eur_per_mwh": 0,
       "co2_emissions": 0,
       "ground": "Land",
       "category": "Renewable"
@@ -14,10 +14,10 @@
     "WindturbinesOnshore": {
       "resource_dependence": "Wind",
       "production_capacity_kw": 100000,
-      "construction_cost": 1600000,
-      "destruction_cost": 160000,
-      "fix_costs": 365,
-      "var_costs": 7,
+      "construction_cost_mio": 150,
+      "destruction_cost_mio": 150,
+      "fix_costs_mio": 4.5,
+      "var_costs_eur_per_mwh": 3.0,
       "co2_emissions": 0,
       "ground": "Land",
       "category": "Renewable"
@@ -25,10 +25,10 @@
     "WindturbinesOffshore": {
       "resource_dependence": "Wind",
       "production_capacity_kw": 100000,
-      "construction_cost": 2800000,
-      "destruction_cost": 280000,
-      "fix_costs": 445,
-      "var_costs": 8,
+      "construction_cost_mio": 350,
+      "destruction_cost_mio": 350,
+      "fix_costs_mio": 9,
+      "var_costs_eur_per_mwh": 4,
       "co2_emissions": 0,
       "ground": "Ocean",
       "category": "Renewable"
@@ -36,10 +36,10 @@
     "Nuclearplant": {
       "resource_dependence": "None",
       "production_capacity_kw": 1200000,
-      "construction_cost": 132000000,
-      "destruction_cost": 13200000,
-      "fix_costs": 13699,
-      "var_costs": 15,
+      "construction_cost_mio": 12000,
+      "destruction_cost_mio": 3000,
+      "fix_costs_mio": 180,
+      "var_costs_eur_per_mwh": 9,
       "co2_emissions": 0,
       "ground": "Land",
       "category": "Nuclear"
@@ -47,22 +47,22 @@
     "Coalplant": {
       "resource_dependence": "None",
       "production_capacity_kw": 600000,
-      "construction_cost": 12000000,
-      "destruction_cost": 1200000,
-      "fix_costs": 2740,
-      "var_costs": 12,
-      "co2_emissions": 960,
+      "construction_cost_mio": 1500,
+      "destruction_cost_mio": 250,
+      "fix_costs_mio": 60,
+      "var_costs_eur_per_mwh": 35,
+      "co2_emissions_per_mwh": 960,
       "ground": "Land",
       "category": "Fossil"
     },
     "Gasturbine": {
       "resource_dependence": "None",
       "production_capacity_kw": 600000,
-      "construction_cost": 3600000,
-      "destruction_cost": 360000,
-      "fix_costs": 1575,
-      "var_costs": 42,
-      "co2_emissions": 200,
+      "construction_cost_mio": 600,
+      "destruction_cost_mio": 80,
+      "fix_costs_mio": 30,
+      "var_costs_eur_per_mwh": 55,
+      "co2_emissions_per_mwh": 350,
       "ground": "Land",
       "category": "Fossil"
     }
