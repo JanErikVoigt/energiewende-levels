@@ -7,7 +7,7 @@
       "destruction_cost_mio": 6,
       "fix_costs_mio": 1.8,
       "var_costs_eur_per_mwh": 0,
-      "co2_emissions": 0,
+      "co2_emissions_per_mwh": 0,
       "ground": "Land",
       "category": "Renewable"
     },
@@ -18,7 +18,7 @@
       "destruction_cost_mio": 150,
       "fix_costs_mio": 4.5,
       "var_costs_eur_per_mwh": 3.0,
-      "co2_emissions": 0,
+      "co2_emissions_per_mwh": 0,
       "ground": "Land",
       "category": "Renewable"
     },
@@ -29,7 +29,7 @@
       "destruction_cost_mio": 350,
       "fix_costs_mio": 9,
       "var_costs_eur_per_mwh": 4,
-      "co2_emissions": 0,
+      "co2_emissions_per_mwh": 0,
       "ground": "Ocean",
       "category": "Renewable"
     },
@@ -40,7 +40,7 @@
       "destruction_cost_mio": 3000,
       "fix_costs_mio": 180,
       "var_costs_eur_per_mwh": 9,
-      "co2_emissions": 0,
+      "co2_emissions_per_mwh": 0,
       "ground": "Land",
       "category": "Nuclear"
     },
