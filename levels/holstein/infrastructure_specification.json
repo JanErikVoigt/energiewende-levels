@@ -2,7 +2,7 @@
   "powerplants": {
     "Solarpanels": {
       "resource_dependence": "Sunshine",
-      "production_capacity_kw": 100.0,
+      "production_capacity_kw": 100000,
       "construction_cost_mio": 90.0,
       "destruction_cost_mio": 6,
       "fix_costs_mio": 1.8,
