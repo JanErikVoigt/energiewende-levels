@@ -5,7 +5,7 @@
   "width": 500,
   "height": 700,
   "initial_year": 2024,
-  "initial_capital": 100000000,
+  "initial_capital_mio": 1000,
   "electricity_price_mw": 280,
   "win_condition": {
     "co2_budget_tons": 400000000123,
